@@ -1,0 +1,11 @@
+C:\Users\Urmil\source\repos\CalculatorHomework\CalculatorHomework\bin\Debug\netcoreapp3.1\CalculatorHomework.exe
+C:\Users\Urmil\source\repos\CalculatorHomework\CalculatorHomework\bin\Debug\netcoreapp3.1\CalculatorHomework.deps.json
+C:\Users\Urmil\source\repos\CalculatorHomework\CalculatorHomework\bin\Debug\netcoreapp3.1\CalculatorHomework.runtimeconfig.json
+C:\Users\Urmil\source\repos\CalculatorHomework\CalculatorHomework\bin\Debug\netcoreapp3.1\CalculatorHomework.runtimeconfig.dev.json
+C:\Users\Urmil\source\repos\CalculatorHomework\CalculatorHomework\bin\Debug\netcoreapp3.1\CalculatorHomework.dll
+C:\Users\Urmil\source\repos\CalculatorHomework\CalculatorHomework\bin\Debug\netcoreapp3.1\CalculatorHomework.pdb
+C:\Users\Urmil\source\repos\CalculatorHomework\CalculatorHomework\obj\Debug\netcoreapp3.1\CalculatorHomework.csprojAssemblyReference.cache
+C:\Users\Urmil\source\repos\CalculatorHomework\CalculatorHomework\obj\Debug\netcoreapp3.1\CalculatorHomework.AssemblyInfoInputs.cache
+C:\Users\Urmil\source\repos\CalculatorHomework\CalculatorHomework\obj\Debug\netcoreapp3.1\CalculatorHomework.AssemblyInfo.cs
+C:\Users\Urmil\source\repos\CalculatorHomework\CalculatorHomework\obj\Debug\netcoreapp3.1\CalculatorHomework.dll
+C:\Users\Urmil\source\repos\CalculatorHomework\CalculatorHomework\obj\Debug\netcoreapp3.1\CalculatorHomework.pdb
